@@ -1,2 +1,6 @@
 # helpzonus
-Helpzonus maximus
+Helpzonus maximus... 
+
+A preconfigured tiling WM setup using [insert wm here].
+
+Keep the slacker in your hearts...
